@@ -8,7 +8,7 @@ body {
 
 
 .video-container {
-    /* overflow: hidden; */
+    overflow: hidden;
     height: 70vh;
     width: 100%;
 }
