@@ -205,7 +205,7 @@ document.getElementById('toggleButton').addEventListener('click', function (even
 
     // التبديل بين الإظهار والإخفاء
     if (projectDiv.style.display === "none") {
-        projectDiv.style.display = "block"; // يظهر الـ div
+        projectDiv.style.display = "flex"; // يظهر الـ div
         toggleButton.textContent = "Less Projects"; // تغيير النص
     } else {
         projectDiv.style.display = "none"; // يخفي الـ div
