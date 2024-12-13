@@ -398,10 +398,17 @@ html {
         box-shadow: -2px -2px 5px rgba(255, 255, 255, 0.2);
     }
 
-    .home::before {
+/*     .home::before {
         top: -70%;
         left: 0%;
         width: 100%;
+        height: 250%;
+    } */
+
+    .home::before {
+        top: -65%;
+        left: -5%;
+        width: 110%;
         height: 250%;
     }
 
