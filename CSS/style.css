@@ -406,7 +406,7 @@ html {
     } */
 
     .home::before {
-        top: -65%;
+        top: -50%;
         left: -5%;
         width: 110%;
         height: 250%;
