@@ -397,4 +397,21 @@ html {
     .exp{
         box-shadow: -2px -2px 5px rgba(255, 255, 255, 0.2);
     }
+
+    .home::before {
+        top: -70%;
+        left: 0%;
+        width: 100%;
+        height: 250%;
+    }
+
+    .main-title{
+        font-size: 28px;
+
+    }
+    .subtitle{
+        font-size: 15px;
+    }
+
+    
 }
